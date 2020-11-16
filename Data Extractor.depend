@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1480601161 source:c:\users\massimiliano\onedrive for business\multiphoton\c++ programs\data extractor\extract.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<deque>
+	"strtk.hpp"
+
+1480699604 source:c:\users\massimiliano\onedrive for business\multiphoton\c++ programs\data extractor\extract_auto_generate_addresses.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<deque>
+	"strtk.hpp"
+	<cmath>
+
+1479986791 source:c:\users\massimiliano\onedrive for business\multiphoton\c++ programs\data extractor\extract_auto_generate_addresses_4pairs.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<deque>
+	"strtk.hpp"
+	<cmath>
+
